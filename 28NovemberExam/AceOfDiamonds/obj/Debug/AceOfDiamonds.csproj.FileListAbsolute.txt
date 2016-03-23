@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\28NovemberExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+D:\VisualStudioProjects\28NovemberExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+D:\VisualStudioProjects\28NovemberExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+D:\VisualStudioProjects\28NovemberExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+D:\VisualStudioProjects\28NovemberExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\28NovemberExam\ImpressTheGirlFriend\bin\Debug\ImpressTheGirlFriend.exe.config
+D:\VisualStudioProjects\28NovemberExam\ImpressTheGirlFriend\bin\Debug\ImpressTheGirlFriend.exe
+D:\VisualStudioProjects\28NovemberExam\ImpressTheGirlFriend\bin\Debug\ImpressTheGirlFriend.pdb
+D:\VisualStudioProjects\28NovemberExam\ImpressTheGirlFriend\obj\Debug\ImpressTheGirlFriend.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\28NovemberExam\ImpressTheGirlFriend\obj\Debug\ImpressTheGirlFriend.exe
+D:\VisualStudioProjects\28NovemberExam\ImpressTheGirlFriend\obj\Debug\ImpressTheGirlFriend.pdb

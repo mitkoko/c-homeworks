@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpressTheGirlFriend", "ImpressTheGirlFriend\ImpressTheGirlFriend.csproj", "{E92C401F-330C-465F-A8F2-82B4B8B32FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeThePlaneDown", "TakeThePlaneDown\TakeThePlaneDown.csproj", "{61242A9D-7F29-44A8-A66A-3B5C14501706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AceOfDiamonds", "AceOfDiamonds\AceOfDiamonds.csproj", "{EBBE9FFE-47BA-4D20-A80A-342755A28B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92C401F-330C-465F-A8F2-82B4B8B32FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92C401F-330C-465F-A8F2-82B4B8B32FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92C401F-330C-465F-A8F2-82B4B8B32FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92C401F-330C-465F-A8F2-82B4B8B32FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61242A9D-7F29-44A8-A66A-3B5C14501706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61242A9D-7F29-44A8-A66A-3B5C14501706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61242A9D-7F29-44A8-A66A-3B5C14501706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61242A9D-7F29-44A8-A66A-3B5C14501706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBE9FFE-47BA-4D20-A80A-342755A28B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBE9FFE-47BA-4D20-A80A-342755A28B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBE9FFE-47BA-4D20-A80A-342755A28B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBE9FFE-47BA-4D20-A80A-342755A28B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
