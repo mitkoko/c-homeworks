@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\12JulyExam\DetectiveBoev\bin\Debug\DetectiveBoev.exe.config
+D:\VisualStudioProjects\12JulyExam\DetectiveBoev\bin\Debug\DetectiveBoev.exe
+D:\VisualStudioProjects\12JulyExam\DetectiveBoev\bin\Debug\DetectiveBoev.pdb
+D:\VisualStudioProjects\12JulyExam\DetectiveBoev\obj\Debug\DetectiveBoev.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\12JulyExam\DetectiveBoev\obj\Debug\DetectiveBoev.exe
+D:\VisualStudioProjects\12JulyExam\DetectiveBoev\obj\Debug\DetectiveBoev.pdb

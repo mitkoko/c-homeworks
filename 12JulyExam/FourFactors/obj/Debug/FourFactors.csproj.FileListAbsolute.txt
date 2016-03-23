@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\12JulyExam\FourFactors\bin\Debug\FourFactors.exe.config
+D:\VisualStudioProjects\12JulyExam\FourFactors\bin\Debug\FourFactors.exe
+D:\VisualStudioProjects\12JulyExam\FourFactors\bin\Debug\FourFactors.pdb
+D:\VisualStudioProjects\12JulyExam\FourFactors\obj\Debug\FourFactors.exe
+D:\VisualStudioProjects\12JulyExam\FourFactors\obj\Debug\FourFactors.pdb

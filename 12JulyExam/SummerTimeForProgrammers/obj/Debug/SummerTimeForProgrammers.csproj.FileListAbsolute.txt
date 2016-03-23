@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\12JulyExam\SummerTimeForProgrammers\bin\Debug\SummerTimeForProgrammers.exe.config
+D:\VisualStudioProjects\12JulyExam\SummerTimeForProgrammers\bin\Debug\SummerTimeForProgrammers.exe
+D:\VisualStudioProjects\12JulyExam\SummerTimeForProgrammers\bin\Debug\SummerTimeForProgrammers.pdb
+D:\VisualStudioProjects\12JulyExam\SummerTimeForProgrammers\obj\Debug\SummerTimeForProgrammers.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\12JulyExam\SummerTimeForProgrammers\obj\Debug\SummerTimeForProgrammers.exe
+D:\VisualStudioProjects\12JulyExam\SummerTimeForProgrammers\obj\Debug\SummerTimeForProgrammers.pdb
